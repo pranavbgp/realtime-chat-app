@@ -4,17 +4,17 @@ A full-stack real-time chat application built with **React (Vite)** on the front
 
 ## Features
 
-- ✅ Real-time messaging via Socket.io (no polling)
-- ✅ Instant message delivery & broadcast to all connected clients
-- ✅ Chat history persisted in memory (survives page refresh while server is running)
-- ✅ Message timestamps with date separators
-- ✅ Username-based join (dummy authentication)
-- ✅ Online/offline user list
-- ✅ Typing indicators
-- ✅ Graceful connection/disconnection handling
-- ✅ REST APIs for messages and online users
-- ✅ Clean, modern, responsive dark UI
-- ✅ Error handling for API and Socket events
+-  Real-time messaging via Socket.io (no polling)
+-  Instant message delivery & broadcast to all connected clients
+-  Chat history persisted in memory (survives page refresh while server is running)
+-  Message timestamps with date separators
+-  Username-based join (dummy authentication)
+-  Online/offline user list
+-  Typing indicators
+-  Graceful connection/disconnection handling
+-  REST APIs for messages and online users
+-  Clean, modern, responsive dark UI
+-  Error handling for API and Socket events
 
 ## Project Structure
 
